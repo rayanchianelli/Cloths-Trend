@@ -1,2 +1,2 @@
-# clothing
+# Shopping Trends
 Ongoing project
